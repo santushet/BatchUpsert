@@ -1,0 +1,1 @@
+Nodejs query for batch upsert using mongoose’s <a href="https://mongoosejs.com/docs/api/model.html#model_Model-bulkWrite">bulkWrite </a>and <a href="https://mongoosejs.com/docs/api/model.html#model_Model-updateOne">updateOne</a> operations.
