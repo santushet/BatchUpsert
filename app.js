@@ -54,7 +54,7 @@ async function start() {
   }
 }
 
-start();
 app.listen(3000, () => {
   console.log("Connected to PORT 3000...");
 });
+start();
